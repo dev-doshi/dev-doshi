@@ -15,3 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 ![dev's github stats](https://github-readme-stats.vercel.app/api?username=dev-doshi&show_icons=true)
+
+
+![dev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-doshi&layout=compact)
+
