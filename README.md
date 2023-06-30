@@ -20,7 +20,15 @@ Here are some ideas to get you started:
 
 <!-- ![dev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-doshi&layout=compact) -->
 
-Hello 👋
+**Hello!** 👋
 
+I'm a 16-year-old person who loves coding. I live in Germany 🇩🇪 and I'm really into Python and Swift/SwiftUI.
 
+- ✨ I'm really excited about turning lines of code into cool solutions and making things that are easy for people to use.
+- 🎯 My main goal is to bring ideas to life through programming. I'm always learning and trying out new technologies.
+- 🧠 I like working with others and being part of team projects. I use my skills to create software that works well and looks nice.
+- 💡 I believe in sharing and helping others in the coding community. I like contributing to open-source projects.
+- 🌱 I'm always learning new things on my own and keeping up with what's happening in the industry.
+- 💻 When I'm not coding, I enjoy playing chess. 
 
+🚀 Let's connect and work together to create something really amazing!
