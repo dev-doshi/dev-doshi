@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 
 **Hello!** 👋
 
-I'm a 16-year-old person who loves coding. I live in Germany 🇩🇪 and I'm really into Python and Swift/SwiftUI.
+I'm a 16-year-old who loves coding. I live in Germany 🇩🇪 and I'm really into Python and Swift/SwiftUI.
 
 - ✨ I'm really excited about turning lines of code into cool solutions and making things that are easy for people to use.
 - 🎯 My main goal is to bring ideas to life through programming. I'm always learning and trying out new technologies.
