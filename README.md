@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 <!-- ![dev's most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=dev-doshi&layout=compact) -->
-
+<!--
 **Hello!** 👋
 
 I'm a 16-year-old who loves coding. I live in Germany 🇩🇪 and I'm really into Python and Swift/SwiftUI.
@@ -32,3 +32,5 @@ I'm a 16-year-old who loves coding. I live in Germany 🇩🇪 and I'm really in
 - 💻 When I'm not coding, I enjoy playing chess. 
 
 🚀 Let's connect and work together to create something really amazing!
+-->
+**Hello!** 
